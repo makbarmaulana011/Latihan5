@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "editor.accessibilitySupport": "on",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "python.defaultInterpreterPath": "C:\\Users\\USER\\AppData\\Local\\Microsoft\\WindowsApps\\python3.10.exe",
+    "[java]": {
+        "breadcrumbs.showFiles": true,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.formatOnSave": true
+    },
+    "window.zoomLevel": -1,
+    "workbench.sideBar.location": "right"
+}
